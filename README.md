@@ -11,8 +11,8 @@ and compliance using functional, integration, performance, and security testing 
 
 
 ## API Reference
-User API Endpoints: https://dmoney.roadtocareer.net/api-docs/user
-Transaction API Endpoints: https://dmoney.roadtocareer.net/api-docs/transaction
+- User API Endpoints: https://dmoney.roadtocareer.net/api-docs/user
+- Transaction API Endpoints: https://dmoney.roadtocareer.net/api-docs/transaction
 
 ## Api Documentation
 https://documenter.getpostman.com/view/36766698/2sAYBXAqfM
