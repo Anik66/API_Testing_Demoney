@@ -3,9 +3,12 @@ This project tests a money transaction website's functionality, security, and
 reliability, focusing on user authentication, transaction accuracy, payment integration, 
 and compliance using functional, integration, performance, and security testing methodologies
 ## Technology used
---postman
---newman
---node js
+- postman
+- newman
+- node js
+  
+
+
 
 ## API Reference
 User API Endpoints: https://dmoney.roadtocareer.net/api-docs/user
